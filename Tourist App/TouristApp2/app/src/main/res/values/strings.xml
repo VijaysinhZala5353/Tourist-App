@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tourist App</string>
+    <string name="Country">country</string>
+    <string name="EnterPass">Enter Password</string>
+    <string name="Username">Enter Username</string>
+    <string name="country_and_places">Country and Places</string>
+    <string name="country">Country</string>
+    <string name="capital">Capital</string>
+    <string name="visitors">Visitors:</string>
+    <string name="todo">TODO</string>
+    <string name="calculate">Calculate</string>
+    <string name="total">Total:</string>
+    <string name="login_page">Login Page</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="login">Login</string>
+</resources>
